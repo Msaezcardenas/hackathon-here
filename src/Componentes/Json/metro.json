@@ -1,0 +1,13 @@
+{
+    "metro":{
+        "lineas":{
+            "estaciones":{
+                "ascensor": "",
+                "latitud": "",
+                "longitud":"",
+                "otros datos": ""
+            }
+
+        }
+    }
+}
