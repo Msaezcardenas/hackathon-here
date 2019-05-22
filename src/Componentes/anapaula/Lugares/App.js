@@ -74,10 +74,10 @@ class App extends React.Component {
 
  
 
-   render() {
+   render() {     
 
       return (
-         <div className="app">           
+         <div className="app">            
             <div className="map-grid">
                {this.state.maps.map((map, index) =>
                   <MapContainer
@@ -93,6 +93,7 @@ class App extends React.Component {
 
             </div>
          </div>
+        
       );
    }
 }
