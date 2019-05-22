@@ -1,14 +1,12 @@
-
-export const hereIsolineUrl = (credentials,coords, options) => `https://isoline.route.api.here.com/routing/7.2/calculateisoline.json?app_id=LP2ZyQJ7qm17fYnZLySE&app_code=4kTbv-S-8k6wr44_jerEbQ&mode=shortest;${options.mode};traffic:${options.traffic}&start=geo!${coords[0]},${coords[1]}&range=${options.range}&rangetype=${options.type}`
-
-export const hereTileUrl = (style) => `https://2.base.maps.api.here.com/maptile/2.1/maptile/newest/${style}/{z}/{x}/{y}/512/png8?app_id=LP2ZyQJ7qm17fYnZLySE&app_code=4kTbv-S-8k6wr44_jerEbQ&ppi=320`;
- 
-export const marketUrl = () =>'https://places.demo.api.here.com/places/v1/discover/search?at=-33.454103%2C-70.6058&q=cine&app_id=DemoAppId01082013GAL&app_code=AJKnXv84fjrb0KIHawS0Tg';
-
-export const maxIsolineRangeLookup = {
-   time: 5000,
-   distance: 80000
+export const hereCredentials = {
+   id: 'UQ75LhFcnAv0DtOUwBEA',
+   code: 'f5nyezNmYF4wvuJqQgNSkg'
 }
+
+export const hereIsolineUrl = (coords, options) => `https://isoline.route.api.here.com/routing/7.2/calculateisoline.json?app_id=${hereCredentials.id}&app_code=${hereCredentials.code}&mode=shortest;${options.mode};traffic:${options.traffic}&start=geo!${coords[0]},${coords[1]}&range=${options.range}&rangetype=${options.type}`
+
+export const hereTileUrl = (style) => `https://2.base.maps.api.here.com/maptile/2.1/maptile/newest/${style}/{z}/{x}/{y}/512/png8?app_id=${hereCredentials.id}&app_code=${hereCredentials.code}&ppi=320`;
+
 
 export const BCI = ()=> {
 
