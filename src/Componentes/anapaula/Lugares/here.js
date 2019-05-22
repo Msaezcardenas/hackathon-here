@@ -1,5 +1,5 @@
 
-export const hereIsolineUrl = (credentials,coords, options) => `https://isoline.route.api.here.com/routing/7.2/calculateisoline.json?app_id=LP2ZyQJ7qm17fYnZLySE&app_code=4kTbv-S-8k6wr44_jerEbQ&mode=shortest;${options.mode};traffic:${options.traffic}&start=geo!${coords[0]},${coords[1]}&range=${options.range}&rangetype=${options.type}`
+export const hereIsolineUrl = (coords, options) => `https://isoline.route.api.here.com/routing/7.2/calculateisoline.json?app_id=LP2ZyQJ7qm17fYnZLySE&app_code=4kTbv-S-8k6wr44_jerEbQ&mode=shortest;${options.mode};traffic:${options.traffic}&start=geo!${coords[0]},${coords[1]}&range=${options.range}&rangetype=${options.type}`
 
 export const hereTileUrl = (style) => `https://2.base.maps.api.here.com/maptile/2.1/maptile/newest/${style}/{z}/{x}/{y}/512/png8?app_id=LP2ZyQJ7qm17fYnZLySE&app_code=4kTbv-S-8k6wr44_jerEbQ&ppi=320`;
  
@@ -43,6 +43,8 @@ const oficinasBancoBCI= [
 'Camino A Melipilla 6049, Cerrillos',
 'Covadonga 664, San Bernardo'
 ]
+
+
 
 const cordsBCI= oficinasBancoBCI.map((of)=>{
    return (
