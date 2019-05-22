@@ -42,6 +42,8 @@ const oficinasBancoBCI= [
 'Covadonga 664, San Bernardo'
 ]
 
+
+
 const cordsBCI= oficinasBancoBCI.map((of)=>{
    return (
       fetch('https://geocoder.api.here.com/6.2/geocode.json'

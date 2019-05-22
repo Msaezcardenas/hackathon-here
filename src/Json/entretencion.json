@@ -1,0 +1,103 @@
+{
+    "entretenimiento":{
+        "tipo":{
+            "cine" :{
+                 "Cine Hoyts Vivo Imperio" :{ 
+                    "latitud": -33.4393172,
+                    "longitud": -70.6486841,
+                    "accesibilidad":{
+                        "estacionamineto":"Si",
+                        "baño": "Si",
+                        "rampa":"Si",
+                        "entorno": "Plaza de Armas, Línea 5. El ascensor se encuentra en Monjitas con 21 de mayo, a tres cuadras del cine."
+                    }
+                },
+                 "Cine Hoyts Plaza Egaña" : {
+                    "latitud": -33.4370402,
+                    "longitud": -70.5738675,
+                    "accesibilidad":{
+                        "estacionamineto":"Si",
+                        "baño": "Si",
+                        "rampa":"Si",
+                        "entorno": "Muy encima la pantalla de la primera fila. La salida accesible del metro no es la que queda frente al mall"
+                    }    
+                 },
+                 "Cine Normandie" : {
+                    "latitud": -33.4475241,
+                    "longitud": -70.6519978,
+                    "accesibilidad":{
+                        "estacionamineto":"No",
+                        "baño": "No",
+                        "rampa":"No",
+                        "entorno": "Un pequeño peldaño en el acceso al cine, sorteable. El pasillo es un poco inclinado, por tanto hay que ajustar la posición o reclinar la silla, de tal modo que uno quede cómodo sin esa sensación que te vas hacia adelante."
+                    }    
+                 }
+            },
+            "Mall":{
+                "Mall Portal Ñuñoa":{
+                    "latitud": -33.4654759,
+                    "longitud": -70.5978814,
+                    "accesibilidad":{
+                        "estacionamineto":"Si",
+                        "baño": "Si",
+                        "rampa":"Si",
+                        "entorno": "La micro te deja frente al portal y hay rampas en ambos accesos."
+                    }
+                },
+                "Mall Alto Las Condes":{
+                    "latitud": -33.36671,
+                    "longitud": -70.49689,
+                    "accesibilidad":{
+                        "estacionamineto":"No",
+                        "baño": "Si",
+                        "rampa":"Si",
+                        "entorno": "Ubicaron los cajeros de parking en el espacio de estacionamientos preferencial"
+                    }
+                },
+                "Mall VIVO Panoramico":{
+                    "latitud": -33.43107,
+                    "longitud": -70.60454,
+                    "accesibilidad":{
+                        "estacionamineto":"No",
+                        "baño": "No",
+                        "rampa":"Si",
+                        "entorno": "No hay estacionamiento, si bien hay rampa, esta tiene una inclinación peligrosa"
+                    }
+                }
+            },
+            "Museo":{
+                "Museo de la Memoria":{
+                    "latitud": -33.4397436,
+                    "longitud": -70.6794048,
+                    "accesibilidad":{
+                        "estacionamineto":"No",
+                        "baño": "Si",
+                        "rampa":"Si",
+                        "entorno": "El acceso es bueno, el metro esta frente del museo y tiene ascensor"
+                    }
+                },
+                "MAC":{
+                    "latitud": -33.4417268,
+                    "longitud": -70.6799854,
+                    "accesibilidad":{
+                        "estacionamineto":"Si",
+                        "baño": "Si",
+                        "rampa":"No",
+                        "entorno": "El interior del museo no cuenta con ninguna rampa"
+                    }
+                },
+                "Museo Nacional Bellas Artes":{
+                    "latitud": -33.4364125,
+                    "longitud": -70.6434866,
+                    "accesibilidad":{
+                        "estacionamineto":"No",
+                        "baño": "Si",
+                        "rampa":"No",
+                        "entorno": ""
+                    }
+                }
+
+            }
+        }
+    }
+}
