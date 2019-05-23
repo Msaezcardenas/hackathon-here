@@ -3,6 +3,7 @@ import { Map, TileLayer , Marker, Popup} from 'react-leaflet';
 import {iconMall,iconMuseo,iconCine,iconBanco} from './vectores'
 //import vectorMapa from './Asserts/pinMapa.png'
 import './MapaCategoría.css'
+import Instructions from '../../molu/Instructions';
 
 class MapasCategoria extends Component {
 constructor(props) {
@@ -344,7 +345,8 @@ render() {
     })): null
   
    return (
-
+     <div>
+       <Instructions/>
      <Map 
         center={this.state.mapsCoordinates} 
         zoom={this.state.options.zoom} 
@@ -357,7 +359,7 @@ render() {
       {markerBEstado}    
 
      </Map>
-
+     </div>
    );
 
  }

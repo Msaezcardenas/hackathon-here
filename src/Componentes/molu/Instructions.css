@@ -1,0 +1,43 @@
+.inst {
+    height: 100vh;
+    width: 100%;
+    background-color:#fff;
+    display: flex;   
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    padding-top: 5rem;
+    text-align: center;
+
+}
+
+.inst h3{
+    text-align: left;
+}
+
+.instStyle {
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    align-items: center;
+}
+
+.imgHome{
+    width: 100%;
+}
+
+.boxImg {
+    width: 45px;
+    margin: 15px;
+}
+
+button {
+    border-radius: 20px;
+    background-color: white; 
+    color:#FF8A65;
+    border:#FF8A65 1.5px solid;
+    padding: 7px 36px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 0;
+}
