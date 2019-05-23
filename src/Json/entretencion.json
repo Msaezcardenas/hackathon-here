@@ -1,138 +1,142 @@
 {
-    "entretenimiento":{
-           "Cine" :{
-                 "Cine Hoyts Vivo Imperio" :{ 
-                    "latitud": -33.4393172,
-                    "longitud": -70.6486841,
-                    "categoría": "Totalmente Accesible",
-                    "accesibilidad":{
+    "entretenimiento":[
+            {   "categoria":"Cine",
+                "nombre": "Cine Hoyts Vivo Imperio",
+                "latitud": -33.4393172,
+                "longitud": -70.6486841,
+                "nivel": "Totalmente Accesible",
+                "accesibilidad":{
                         "estacionamineto":"Si",
                         "baño": "Si",
                         "rampa":"Si",
                         "entorno": "Plaza de Armas, Línea 5. El ascensor se encuentra en Monjitas con 21 de mayo, a tres cuadras del cine."
-                    }
-                },
-                 "Cine Hoyts Plaza Egaña" : {
-                    "latitud": -33.4370402,
-                    "longitud": -70.5738675,
-                    "categoría": "Medianamente Accesible",
-                    "accesibilidad":{
+                }
+            },
+            {   "categoria":"Cine",
+                "nombre":"Cine Hoyts Plaza Egaña",
+                "latitud": -33.4370402,
+                "longitud": -70.5738675,
+                "nivel": "Medianamente Accesible",
+                "accesibilidad":{
                         "estacionamineto":"Si",
                         "baño": "Si",
                         "rampa":"Si",
                         "entorno": "Muy encima la pantalla de la primera fila. La salida accesible del metro no es la que queda frente al mall"
-                    }    
-                 },
-                 "Cine Normandie" : {
+                }    
+            },
+            {   "categoria":"Cine",
+                "nombre":"Cine Normandie",
                     "latitud": -33.4475241,
                     "longitud": -70.6519978,
-                    "categoría": "No Accesible",
+                    "nivel": "No Accesible",
                     "accesibilidad":{
                         "estacionamineto":"No",
                         "baño": "No",
                         "rampa":"No",
                         "entorno": "Un pequeño peldaño en el acceso al cine, sorteable. El pasillo es un poco inclinado, por tanto hay que ajustar la posición o reclinar la silla, de tal modo que uno quede cómodo sin esa sensación que te vas hacia adelante."
-                    }    
-                 }
-            },
-     "Centros Comerciales":{
-                "Mall Portal Ñuñoa":{
+                }
+            },    
+            {   "categoria":"Centros Comerciales",
+                "nombre":"Mall Portal Ñuñoa",
                     "latitud": -33.4654759,
                     "longitud": -70.5978814,
-                    "categoría": "Totalmente Accesible",
+                    "nivel": "Totalmente Accesible",
                     "accesibilidad":{
                         "estacionamineto":"Si",
                         "baño": "Si",
                         "rampa":"Si",
                         "entorno": "La micro te deja frente al portal y hay rampas en ambos accesos."
                     }
-                },
-                "Mall Alto Las Condes":{
+            },
+            {   "categoria":"Centros Comerciales",
+                "nombre":"Mall Alto Las Condes",
                     "latitud": -33.36671,
                     "longitud": -70.49689,
-                    "categoría": "Medianamente Accesible",
+                    "nivel": "Medianamente Accesible",
                     "accesibilidad":{
                         "estacionamineto":"No",
                         "baño": "Si",
                         "rampa":"Si",
                         "entorno": "Ubicaron los cajeros de parking en el espacio de estacionamientos preferencial"
                     }
-                },
-                "Mall VIVO Panoramico":{
+            },
+            {   "categoria":"Centros Comerciales",
+                "nombre":"Mall VIVO Panoramico",
                     "latitud": -33.43107,
                     "longitud": -70.60454,
-                    "categoría": "No Accesible",
+                    "nivel": "No Accesible",
                     "accesibilidad":{
                         "estacionamineto":"No",
                         "baño": "No",
                         "rampa":"Si",
                         "entorno": "No hay estacionamiento, si bien hay rampa, esta tiene una inclinación peligrosa"
                     }
-                }
             },
-        "Museos":{
-                "Museo de la Memoria":{
+            {   "categoria":"Museos",
+                "nombre":"Museo de la Memoria",
                     "latitud": -33.4397436,
                     "longitud": -70.6794048,
-                    "categoría": "Totalmente Accesible",
+                    "nivel": "Totalmente Accesible",
                     "accesibilidad":{
                         "estacionamineto":"No",
                         "baño": "Si",
                         "rampa":"Si",
                         "entorno": "El acceso es bueno, el metro esta frente del museo y tiene ascensor"
                     }
-                },
-                "MAC":{
+            },
+            {   "categoria":"Museos",
+                "nombre": "MAC",
                     "latitud": -33.4417268,
                     "longitud": -70.6799854,
-                    "categoría": "No Accesible",
+                    "nivel": "No Accesible",
                     "accesibilidad":{
                         "estacionamineto":"Si, en la calle",
                         "baño": "Si",
                         "rampa":"No",
                         "entorno": "El interior del museo no cuenta con ninguna rampa"
-                    }
-                },
-                "Museo Nacional Bellas Artes":{
+                }
+            },
+            {   "categoria":"Museos",
+                "nombre":"Museo Nacional Bellas Artes",
                     "latitud": -33.4364125,
                     "longitud": -70.6434866,
-                    "categoría": "Medianamente Accesible",
+                    "nivel": "Medianamente Accesible",
                     "accesibilidad":{
                         "estacionamineto":"No",
                         "baño": "Si",
                         "rampa":"No",
                         "entorno": ""
                     }
-                }
-
             },
-            "Conciertos":{
-                "Teatro Teletón":{
-                    "Latitud": -33.435838, 
-                    "Longitud": -70.659216,
-                    "Categoría": "Totalmente Accesible",
+            {   "categoria":"Conciertos",
+                "nombre":"Teatro Teletón",
+                    "latitud": -33.435838, 
+                    "longitud": -70.659216,
+                    "nivel": "Totalmente Accesible",
                     "Accesibilidad":{
                         "estacionamineto":"Si",
                         "baño": "Si",
                         "rampa":"Si",
                         "entorno": "Metro Santa Ana con rampa de acceso a una cuadra"
                     }
-                },
-                "Movistar Arena":{
-                        "Latitud": -33.462286,
-                        "Longitud":  -70.663811,
-                        "Categoría": "Medianamente Accesible",
+            },
+            {   "categoria":"Conciertos",
+                "nombre": "Movistar Arena",
+                        "latitud": -33.462286,
+                        "longitud":  -70.663811,
+                        "nivel": "Medianamente Accesible",
                         "Accesibilidad":{
                             "estacionamineto":"Si",
                             "baño": "Si",
                             "rampa/ascensor":"Si",
                             "entorno": "Si llegas en transporte público, debes cruzar el parque por un camino de tierra, las filas de sillas de ruedas son al final de las plateas."
                         }
-                },
-                "Teatro Caupolican":{
-                    "Latitud": -33.462286,
-                    "Longitud":  -70.663811,
-                    "Categoría": "No Accesible",
+            },
+            {   "categoria":"Conciertos",
+                "nombre":"Teatro Caupolican",
+                    "latitud": -33.456171, 
+                    "longitud":  -70.649619,
+                    "nivel": "No Accesible",
                     "Accesibilidad":{
                         "estacionamineto":"No",
                         "baño": "No",
@@ -140,7 +144,6 @@
                         "entorno": "No posee ninguna implementación"
                     }
             }
-        }
+    ]
 
-    }
 }

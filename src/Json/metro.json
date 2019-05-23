@@ -1,832 +1,831 @@
-{ "L1":{
-            "San Pablo L1":{
+{"L1":[     {   "estacion":"San Pablo L1",
                 "acceso": "Acceso Preferencial",
                 "latitud": -33.445128, 
                 "longitud": -70.722949,
                 "otros datos": "Solo Rampa"
             },
-            "Neptuno":{
+            {   "estacion":"Neptuno",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.451568,
                 "longitud": -70.722916,
                 "otros datos": "Solo Rampa"
             },
-            "Pajaritos":{
+            {   "estacion":"Pajaritos",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.457105, 
                 "longitud":-70.716226,
                 "otros datos": "Muchos Comerciantes en la vía"
             },
-            "Las Rejas":{
+            {   "estacion":"Las Rejas",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.457410,
                 "longitud":-70.707172,
                 "otros datos": ""
             },
-            "Ecuador":{
+            {   "estacion":"Ecuador",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.456052,
                 "longitud": -70.699569,
                 "otros datos": ""
             },
-            "San ALberto Hurtado":{
+            {   "estacion":"San ALberto Hurtado",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.454165, 
                 "longitud": -70.692177,
                 "otros datos": ""
             },
-            "U de Santiago":{
+            {   "estacion":"U de Santiago",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.453024,
                 "longitud": -70.686346,
                 "otros datos": "Rampa de acceso hacia Terminal de Buses"
             },
-            "Estacion Central":{
+            {   "estacion":"Estacion Central",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.451059,
                 "longitud": -70.678888,
                 "otros datos": ""
             },
-            "ULA":{
+            {   "estacion":"ULA",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.449258, 
                 "longitud":-70.673504,
                 "otros datos": ""
             },
-            "Republica":{
+            {   "estacion":"Republica",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.447486, 
                 "longitud":-70.667008,
                 "otros datos": ""
             },
-            "Los Heroes L1":{
+            {   "estacion":"Los Heroes L1",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.446670, 
                 "longitud":-70.661368,
                 "otros datos": ""
             },
-            "La Moneda":{
+            {   "estacion":"La Moneda",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.444500, 
                 "longitud":-70.654359,
                 "otros datos": "Acensor solo entre calle y boletería"
             },
-            "U de Chile L1":{
+            {   "estacion":"U de Chile L1",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.443861,
                 "longitud": -70.650101,
                 "otros datos": ""
             },
-            "Santa Lucia":{
+            {   "estacion":"Santa Lucia",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.442494,
                 "longitud": -70.645255,
                 "otros datos": ""
             },
-            "U Catolica":{
+            {   "estacion":"U Catolica",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.440233,
                 "longitud": -70.640820,
                 "otros datos": ""
             },
-            "Baquedano L1":{
+            {   "estacion":"Baquedano L1",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud":  -33.437326,  
                 "longitud":-70.635040,
                 "otros datos": ""
             },
-            "Salvador":{
+            {   "estacion":"Salvador",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.432103,
                 "longitud":  -70.625679,
                 "otros datos": ""
             },
-            "Manuel Montt":{
+            {   "estacion":"Manuel Montt",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.428374,
                 "longitud":-70.619307,
                 "otros datos": ""
             },
-            "Pedro de Valdivia":{
+            {   "estacion":"Pedro de Valdivia",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.424888,
                 "longitud": -70.613830,
                 "otros datos": ""
             },
-            "Los leones L1":{
+            {   "estacion":"Los leones L1",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.421888,
                 "longitud":-70.608366,
                 "otros datos": ""
             },
-            "Tobalaba L1":{
+            {   "estacion":"Tobalaba L1",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.418674, 
                 "longitud":-70.602856,
                 "otros datos": ""
             },
-            "El golf":{
+            {   "estacion":"El golf",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.416775,
                 "longitud":-70.596139,
                 "otros datos": ""
             }, 
-            "Alcantara":{
+            {   "estacion":"Alcantara",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.415401, 
                 "longitud": -70.589277,
                 "otros datos": ""
             }, 
-            "Escuela Militar":{
+            {   "estacion":"Escuela Militar",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.414346,
                 "longitud": -70.584699,
                 "otros datos": ""
             }, 
-            "Manquehue":{
+            {   "estacion":"Manquehue",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.409225,
                 "longitud":-70.568751,
                 "otros datos": ""
             },
-            "Hernando Magallanes":{
+            {   "estacion":"Hernando Magallanes",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.407964, 
                 "longitud": -70.555956,
                 "otros datos": ""
             }, 
-            "Los Dominicos":{
+            {   "estacion":"Los Dominicos",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -70.545072,
                 "longitud":-33.407910,
                 "otros datos": ""
             }
-        },
-    "L2":{
-            "Vespucio Norte":{
+        ],
+    "L2":[
+            {   "estacion":"Vespucio Norte",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.380874,
                 "longitud": -70.647001,
                 "otros datos": "Conexión Intermodal Accesible"
             },
-            "Zapadores":{
+            {   "estacion":"Zapadores",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.391293,
                 "longitud":  -70.642461,
                 "otros datos": ""
             },
-            "Dorsal":{
+            {   "estacion":"Dorsal",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.396865,
                 "longitud":  -70.642832,
                 "otros datos": ""
             },
-            "Einstein":{
+            {   "estacion":"Einstein",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.405662, 
                 "longitud": -70.643369,
                 "otros datos": ""
             },
-            "Cementerios":{
+            {   "estacion":"Cementerios",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.414002,
                 "longitud": -70.643723,
                 "otros datos": ""
             },
-            "Cerro Blanco":{
+            {   "estacion":"Cerro Blanco",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.422418,
                 "longitud":  -70.645049,
                 "otros datos": ""
             },
-            "Patronato":{
+            {   "estacion":"Patronato",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.429562,
                 "longitud": -70.646969,
                 "otros datos": ""
             },
-            "Puente Cal y Canto L2":{
+            {   "estacion":"Puente Cal y Canto L2",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.432432, 
                 "longitud": -70.653210,
                 "otros datos": ""
             },
-            "Santa Ana L2":{
+            {   "estacion":"Santa Ana L2",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.438300,
                 "longitud": -70.659892,
                 "otros datos": ""
             },
-            "Los Heroes L2":{
+            {   "estacion":"Los Heroes L2",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.445976,
                 "longitud": -70.660677,
                 "otros datos": ""
             },
-            "Toesca":{
+            {   "estacion":"Toesca",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.452553,
                 "longitud":  -70.658679,
                 "otros datos": ""
             },
-            "Parque O'higgins":{
+            {   "estacion":"Parque O'higgins",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.460522, 
                 "longitud": -70.656857,
                 "otros datos": ""
             },
-            "Rondizzoni":{
+            {   "estacion":"Rondizzoni",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.470105,
                 "longitud": -70.656349,
                 "otros datos": ""
             },
-            "Franklin L2":{
+            {   "estacion":"Franklin L2",
                 "ascensor": "Acceso Preferencial",
                 "latitud":-33.475690,
                 "longitud": -70.649440,
                 "otros datos": ""
             },
-            "El llano":{
+            {   "estacion":"El llano",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.482828, 
                 "longitud": -70.649199,
                 "otros datos": ""
             },
-            "San Miguel":{
+            {   "estacion":"San Miguel",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.488683,
                 "longitud":-70.651396,
                 "otros datos": ""
             },
-            "Lo vial":{
+            {   "estacion":"Lo vial",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.496732,
                 "longitud": -70.653023,
                 "otros datos": ""
             },
-            "Departamental":{
+            {   "estacion":"Departamental",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.502384, 
                 "longitud": -70.654640,
                 "otros datos": ""
             },
-            "Ciudad del Niño":{
+            {   "estacion":"Ciudad del Niño",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.509829, 
                 "longitud": -70.656764,
                 "otros datos": ""
             },
-            "Lo Ovalle":{
+            {   "estacion":"Lo Ovalle",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.517354,
                 "longitud": -70.658874,
                 "otros datos": ""
             },
-            "El Parron":{
+            {   "estacion":"El Parron",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.526516,
                 "longitud": -70.661189,
                 "otros datos": ""
             },
-            "La Cisterna L2":{
+            {   "estacion":"La Cisterna L2",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.537528,
                 "longitud": -70.664477,
                 "otros datos": ""
             }
-        },
-        "L3":{
-            "Los Libertadores":{
+    ],
+    "L3":[ 
+            {   "estacion":"Los Libertadores",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.365618,
                 "longitud":  -70.691963,
                 "otros datos": ""
             },
-            "Cardenal Caro":{
+            {   "estacion":"Cardenal Caro",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.373500,
                 "longitud": -70.686028,
                 "otros datos": ""
             },
-            "Vivaceta":{
+            {   "estacion":"Vivaceta",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.385926,
                 "longitud": -70.679290,
                 "otros datos": ""
             },
-            "Conchali":{
+            {   "estacion":"Conchali",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.397922,
                 "longitud": -70.669669,
                 "otros datos": ""
             },
-            "Plaza Chacabuco":{
+            {   "estacion":"Plaza Chacabuco",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.406484,
                 "longitud":-70.661200,
                 "otros datos": ""
             },
-            "Hospitales":{
+            {   "estacion":"Hospitales",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.417627,
                 "longitud":-70.656443,
                 "otros datos": ""
             },
-            "Puente Cal y Canto L3":{
+            {   "estacion":"Puente Cal y Canto L3",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.432432, 
                 "longitud": -70.653210,
                 "otros datos": ""
             },
-            "Plaza de Armas L3":{
+            {   "estacion":"Plaza de Armas L3",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.437496,
                 "longitud": -70.652634,
                 "otros datos": ""
             },
-            "U de Chile L3":{
+            {   "estacion":"U de Chile L3",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.443861,
                 "longitud": -70.650101,
                 "otros datos": ""
             },
-            "Parque Almagro":{
+            {   "estacion":"Parque Almagro",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.451434,
                 "longitud":-70.650430,
                 "otros datos": ""
             },
-            "Matta":{
+            {   "estacion":"Matta",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.458130,
                 "longitud": -70.643143,
                 "otros datos": ""
             },
-            "Irarrazabal L3":{
+            {   "estacion":"Irarrazabal L3",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.453296,
                 "longitud": -70.628887,
                 "otros datos": ""
             },
-            "Monseñor Eyzaguirre":{
+            {   "estacion":"Monseñor Eyzaguirre",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.453048,
                 "longitud":-70.613856,
                 "otros datos": ""
             },
-            "Ñuñoa L3":{
+            {   "estacion":"Ñuñoa L3",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.454486,
                 "longitud": -70.604881,
                 "otros datos": ""
             },
-            "Chile España":{
+            {   "estacion":"Chile España",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.455029,
                 "longitud":-70.597607,
                 "otros datos": ""
             },
-            "Villa Frei":{
+            {   "estacion":"Villa Frei",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.454588,
                 "longitud":-70.580075,
                 "otros datos": ""
             },
-            "Plaza Egaña L3":{
+            {   "estacion":"Plaza Egaña L3",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.453527,
                 "longitud":-70.570718,
                 "otros datos": ""
             },
-            "Fernando Castillo Velasco":{
+            {   "estacion":"Fernando Castillo Velasco",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.452083,
                 "longitud": -70.558000,
                 "otros datos": ""
             }
-        },
-        "L4":{
-            "Tobalba L4":{
+    ],
+    "L4":[
+            {   "estacion":"Tobalba L4",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.418508,
                 "longitud": -70.601412,
                 "otros datos": ""
             },
-            "Cristobal Colon":{
+            {   "estacion":"Cristobal Colon",
                 "ascensor": "Acceso Preferencial",
                 "latitud":  -33.426366,
                 "longitud": -70.591255,
                 "otros datos": ""
             },
-            "Francisco Bilbao":{
+            {   "estacion":"Francisco Bilbao",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.431314,
                 "longitud":  -70.585037,
                 "otros datos": ""
             },
-            "Principe de Gales":{
+            {   "estacion":"Principe de Gales",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.438917,
                 "longitud": -70.572931,
                 "otros datos": ""
             },
-            "Simon Bolivar":{
+            {   "estacion":"Simon Bolivar",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.445799,
                 "longitud":-70.571859,
                 "otros datos": ""
             },
-            "PLaza Egaña L4":{
+            {   "estacion":"PLaza Egaña L4",
                 "ascensor": "Acceso Preferencial",
                 "latitud":  -33.453282,
                 "longitud": -70.570583,
                 "otros datos": ""
             },
-            "Los Orientales":{
+            {   "estacion":"Los Orientales",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.462506,
                 "longitud":-70.573602,
                 "otros datos": ""
             },
-            "Grecia":{
+            {   "estacion":"Grecia",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.469582,
                 "longitud":-70.575570,
                 "otros datos": ""
             },
-            "Los Presidentes":{
+            {   "estacion":"Los Presidentes",
                 "ascensor": "Acceso Preferencial",
                 "latitud":  -33.479913, 
                 "longitud":-70.578805,
                 "otros datos": ""
             },
-            "Quilin":{
+            {   "estacion":"Quilin",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.488627,
                 "longitud":-70.579378,
                 "otros datos": ""
             },
-            "Las Torres":{
+            {   "estacion":"Las Torres",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.499185,
                 "longitud":-70.586900,
                 "otros datos": ""
             },
-            "Macul":{
+            {   "estacion":"Macul",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.510175,
                 "longitud": -70.589867,
                 "otros datos": ""
             },
-            "Vicuña Mackenna L4":{
+            {   "estacion":"Vicuña Mackenna L4",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.519987,
                 "longitud":-70.596041,
                 "otros datos": ""
             },
-            "Vicente Valdes L4":{
+            {   "estacion":"Vicente Valdes L4",
                 "ascensor": "Acceso Preferencial",
                 "latitud":  -33.526790,
                 "longitud":-70.596842,
                 "otros datos": ""
             },
-            "Rojas Magallanes":{
+            {   "estacion":"Rojas Magallanes",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.535653,
                 "longitud": -70.592876,
                 "otros datos": ""
             },
-            "Trinidad":{
+            {   "estacion":"Trinidad",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.546530,
                 "longitud":-70.588223,
                 "otros datos": ""
             },
-            "San Jose de la EStrella":{
+            {   "estacion":"San Jose de la EStrella",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.553454,
                 "longitud":-70.586743,
                 "otros datos": ""
             },
-            "Los Quillayes":{
+            {   "estacion":"Los Quillayes",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.561594, 
                 "longitud":-70.585367,
                 "otros datos": ""
             },
-            "Elisa Correa":{
+            {   "estacion":"Elisa Correa", 
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.569219,
                 "longitud":-70.583979,
                 "otros datos": ""
             },
-            "Hosp. Sotero del Rio":{
+            {   "estacion":"Hosp. Sotero del Rio",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.576864,
                 "longitud":-70.582470,
                 "otros datos": ""
             },
-            "Protectora de la Infancia":{
+            {   "estacion":"Protectora de la Infancia",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.589466,
                 "longitud":-70.579990,
                 "otros datos": ""
             },
-            "Las Mercedes":{
+            {   "estacion":"Las Mercedes",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.601223,
                 "longitud":-70.577484,
                 "otros datos": ""
             }, 
-            "Plaza de Puente Alto":{
+            {   "estacion":"Plaza de Puente Alto",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.609472,
                 "longitud": -70.575126,
                 "otros datos": ""
             }
-        },
-        "L4A":{
-            "Vicuña Mackenna L4A":{
+    ],
+     "L4A":[
+            {   "estacion":"Vicuña Mackenna L4A",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.519575,
                 "longitud": -70.596062,
                 "otros datos": ""
             },
-            "Santa Julia":{
+            {   "estacion":"Santa Julia",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.531150,
                 "longitud": -70.605480,
                 "otros datos": ""
             },
-            "La Granja":{
+            {   "estacion":"La Granja",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.541232,
                 "longitud": -70.616021,
                 "otros datos": ""
             },
-            "Santa Rosa":{
+            {   "estacion":"Santa Rosa",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.542248,
                 "longitud": -70.634159,
                 "otros datos": ""
             },
-            "San Ramon":{
+            {   "estacion":"San Ramon",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.541275, 
                 "longitud": -70.643230,
                 "otros datos": ""
             },
-            "La Cisterna L4A":{
+            {   "estacion":"La Cisterna L4A",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.537528,
                 "longitud": -70.664477,
                 "otros datos": ""
             }
-        }, 
-        "L5":{
-            "Plaza de Maipú":{
+    ], 
+        "L5":[
+            {   "estacion":"Plaza de Maipú",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.509981,
                 "longitud":-70.756997,
                 "otros datos": ""
             },
-            "Santiago Bueras":{
+            {   "estacion":"Santiago Bueras",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.496975,
                 "longitud" :-70.757092,
                 "otros datos": ""
             },
-            "Del Sol":{
+            {   "estacion":"Del Sol",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.489992,
                 "longitud":-70.752956,
                 "otros datos": ""
             },
-            "Monte Tabor":{
+            {   "estacion":"Monte Tabor",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.482242,
                 "longitud":-70.745439,
                 "otros datos": ""
             },
-            "Las Parcelas":{
+            {   "estacion":"Las Parcelas",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.4752,
                 "longitud":-70.74,
                 "otros datos": ""
             },
-            "Laguna Sur":{
+            {   "estacion":"Laguna Sur",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.4624,
                 "longitud":-70.7379,
                 "otros datos": ""
             },
-            "Barrancas":{
+            {   "estacion":"Barrancas",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.452911,
                 "longitud":-70.739411,
                 "otros datos": ""
             },
-            "Pudahuel":{
+            {   "estacion":"Pudahuel",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.444942,
                 "longitud":-70.741053,
                 "otros datos": ""
             },
-            "San Pablo L5":{
+            {   "estacion":"San Pablo L5",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.445308,
                 "longitud":-70.723139,
                 "otros datos": ""
             },
-            "Lo Prado":{
+            {   "estacion":"Lo Prado",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.443161,
                 "longitud":-70.716828,
                 "otros datos": ""
             },
-            "Blanqueado":{
+            {   "estacion":"Blanqueado",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.441119,
                 "longitud":-70.706828,
                 "otros datos": ""
             },
-            "Gruta de Lourdes":{
+            {   "estacion":"Gruta de Lourdes",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.438267,
                 "longitud":-70.690953,
                 "otros datos": ""
             },
-            "Quinta Normal":{
+            {   "estacion":"Quinta Normal",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.440394,
                 "longitud":-70.680311,
                 "otros datos": ""
             },
-            "Cummings":{
+            {   "estacion":"Cummings",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.439075,
                 "longitud":-70.668639,
                 "otros datos": ""
             },
-            "Santa Ana L5":{
+            {   "estacion":"Santa Ana L5",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.438153,
                 "longitud":-70.659914,
                 "otros datos": ""
             },
-            "Plaza de Armas L5":{
+            {   "estacion":"Plaza de Armas L5",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.437733,
                 "longitud":-70.650456,
                 "otros datos": ""
             },
-            "Bellas Artes":{
+            {   "estacion":"Bellas Artes",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.436578,
                 "longitud":-70.644411,
                 "otros datos": ""
             },
-            "Baquedano L5":{
+            {   "estacion":"Baquedano L5",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.4374,
                 "longitud":-70.634892,
                 "otros datos": ""
             },
-            "Parque Bustamante":{
+            {   "estacion":"Parque Bustamante",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.442772,
                 "longitud":-70.6315,
                 "otros datos": ""
             },
-            "Santa Isabel":{
+            {   "estacion":"Santa Isabel",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.447075,
                 "longitud":-70.63045,
                 "otros datos": ""
             },
-            "Irarrazabal L5":{
+            {   "estacion":"Irarrazabal L5",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.452406,
                 "longitud":-70.628989,
                 "otros datos": ""
             },
-            "Ñuble L5":{
+            {   "estacion":"Ñuble L5",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.467346,
                 "longitud":-70.624741,
                 "otros datos": ""
             }, 
-            "Rodrigo de Araya":{
+            {   "estacion":"Rodrigo de Araya",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.477622,
                 "longitud":-70.622292,
                 "otros datos": ""
             }, 
-            "Carlos Valdovinos":{
+            {   "estacion":"Carlos Valdovinos",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.486539,
                 "longitud":-70.619131,
                 "otros datos": ""
             }, 
-            "Camino Agricola":{
+            {   "estacion":"Camino Agricola",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.491892,
                 "longitud":-70.617528,
                 "otros datos": ""
             },
-            "San Joaquin":{
+            {   "estacion":"San Joaquin",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.499222,
                 "longitud":-70.615972,
                 "otros datos": ""
             }, 
-            "Pedrero":{
+            {   "estacion":"Pedrero",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.508053,
                 "longitud":-70.612369,
                 "otros datos": ""
             },
-            "Mirador":{
+            {   "estacion":"Mirador",
                 "ascensor": "SIN Acceso Preferencial",
                 "latitud": -33.513417,
                 "longitud":-70.605925,
                 "otros datos": ""
             },
-            "Bellavista de La Florida":{
+            {   "estacion":"Bellavista de La Florida",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.520475,
                 "longitud":-70.599394,
                 "otros datos": ""
             },
-            "Vicente Valdés L5":{
+            {   "estacion":"Vicente Valdés L5",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.526514,
                 "longitud":-70.596764,
                 "otros datos": ""
             }
-        },
-        "L6":{
-            "Cerrillos":{
+    ],
+        "L6":[
+            {   "estacion":"Cerrillos",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.483422,
                 "longitud":-70.695549,
                 "otros datos": ""
             },
-            "Lo Valledor":{
+            {   "estacion":"Lo Valledor",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.478389,
                 "longitud":-70.680899,
                 "otros datos": ""
             },
-            "Presidente Pedro Aguirre Cerda":{
+            {   "estacion":"Presidente Pedro Aguirre Cerda",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.478671,
                 "longitud": -70.664789,
                 "otros datos": ""
             },
-            "Franklin L6":{
+            {   "estacion":"Franklin L6",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.476579,
                 "longitud":-70.649289,
                 "otros datos": ""
             },
-            "Bio Bio":{
+            {   "estacion":"Bio Bio",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.476469,
                 "longitud":-70.642171,
                 "otros datos": ""
             },
-            "Ñuble L6":{
+            {   "estacion":"Ñuble L6",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.467346,
                 "longitud":-70.624741,
                 "otros datos": ""
             },
-            "Estadio Nacional":{
+            {   "estacion":"Estadio Nacional",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.462366,
                 "longitud":-70.60621,
                 "otros datos": ""
             },
-            "Ñuñoa L6":{
+            {   "estacion":"Ñuñoa L6",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.454167,
                 "longitud":-70.604972,
                 "otros datos": ""
             },
-            "Ines de SUarez":{
+            {   "estacion":"Ines de SUarez",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.438721,
                 "longitud":-70.607319,
                 "otros datos": ""
             },
-            "Los Leones L6":{
+            {   "estacion":"Los Leones L6",
                 "ascensor": "Acceso Preferencial",
                 "latitud": -33.421719,
                 "longitud":-70.609667,
                 "otros datos": ""
             }
-        }  
+        ] 
   
     }

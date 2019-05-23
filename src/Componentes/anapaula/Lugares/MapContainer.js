@@ -19,7 +19,7 @@ export class MapContainer extends React.Component {
 
       BCI()
 
-      fetch('https://places.demo.api.here.com/places/v1/discover/search?at=-33.454103%2C-70.6058&q=bancoestado&app_id=DemoAppId01082013GAL&app_code=AJKnXv84fjrb0KIHawS0Tg')
+      fetch('https://places.cit.api.here.com/places/v1/discover/search?at=-33.454103%2C-70.6058&q=bancoestado&app_id=DemoAppId01082013GAL&app_code=AJKnXv84fjrb0KIHawS0Tg')
         .then(data => data.json())
         .then(data=> {
            let cinemaPosition= [];
@@ -30,7 +30,8 @@ export class MapContainer extends React.Component {
                   direction: element.vicinity,
                   coordinates: element.position
                })
-            });   
+            });
+               
             this.setState({
                ...this.state,
                places: cinemaPosition
@@ -47,6 +48,7 @@ export class MapContainer extends React.Component {
    render() {
 
       const marker = this.state.places ? ( this.state.places.map((item)=>{
+         console.log(item.coordinates)
          return (
          <Marker
          position={item.coordinates}
@@ -74,6 +76,7 @@ export class MapContainer extends React.Component {
                   url={hereTileUrl(this.props.style)}
                />
                
+              {marker}
               {marker}
               
             </Map>
