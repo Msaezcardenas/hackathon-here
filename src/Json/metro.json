@@ -1,164 +1,164 @@
 { "L1":{
             "San Pablo L1":{
                 "acceso": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
-                "otros datos": ""
+                "latitud": -33.445128, 
+                "longitud": -70.722949,
+                "otros datos": "Solo Rampa"
             },
             "Neptuno":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
-                "otros datos": ""
+                "latitud": -33.451568,
+                "longitud": -70.722916,
+                "otros datos": "Solo Rampa"
             },
             "Pajaritos":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
-                "otros datos": ""
+                "latitud": -33.457105, 
+                "longitud":-70.716226,
+                "otros datos": "Muchos Comerciantes en la vía"
             },
             "Las Rejas":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.457410,
+                "longitud":-70.707172,
                 "otros datos": ""
             },
             "Ecuador":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.456052,
+                "longitud": -70.699569,
                 "otros datos": ""
             },
             "San ALberto Hurtado":{
                 "ascensor": "SIN Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.454165, 
+                "longitud": -70.692177,
                 "otros datos": ""
             },
             "U de Santiago":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
-                "otros datos": ""
+                "latitud": -33.453024,
+                "longitud": -70.686346,
+                "otros datos": "Rampa de acceso hacia Terminal de Buses"
             },
             "Estacion Central":{
                 "ascensor": "SIN Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.451059,
+                "longitud": -70.678888,
                 "otros datos": ""
             },
             "ULA":{
                 "ascensor": "SIN Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.449258, 
+                "longitud":-70.673504,
                 "otros datos": ""
             },
             "Republica":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.447486, 
+                "longitud":-70.667008,
                 "otros datos": ""
             },
             "Los Heroes L1":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.446670, 
+                "longitud":-70.661368,
                 "otros datos": ""
             },
-            "Moneda":{
+            "La Moneda":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
-                "otros datos": ""
+                "latitud": -33.444500, 
+                "longitud":-70.654359,
+                "otros datos": "Acensor solo entre calle y boletería"
             },
             "U de Chile L1":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.443861,
+                "longitud": -70.650101,
                 "otros datos": ""
             },
             "Santa Lucia":{
                 "ascensor": "SIN Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.442494,
+                "longitud": -70.645255,
                 "otros datos": ""
             },
             "U Catolica":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.440233,
+                "longitud": -70.640820,
                 "otros datos": ""
             },
             "Baquedano L1":{
-                "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "ascensor": "SIN Acceso Preferencial",
+                "latitud":  -33.437326,  
+                "longitud":-70.635040,
                 "otros datos": ""
             },
             "Salvador":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.432103,
+                "longitud":  -70.625679,
                 "otros datos": ""
             },
             "Manuel Montt":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.428374,
+                "longitud":-70.619307,
                 "otros datos": ""
             },
             "Pedro de Valdivia":{
                 "ascensor": "SIN Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.424888,
+                "longitud": -70.613830,
                 "otros datos": ""
             },
             "Los leones L1":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.421888,
+                "longitud":-70.608366,
                 "otros datos": ""
             },
-            "TObalaba L1":{
-                "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+            "Tobalaba L1":{
+                "ascensor": "SIN Acceso Preferencial",
+                "latitud": -33.418674, 
+                "longitud":-70.602856,
                 "otros datos": ""
             },
             "El golf":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.416775,
+                "longitud":-70.596139,
                 "otros datos": ""
             }, 
             "Alcantara":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.415401, 
+                "longitud": -70.589277,
                 "otros datos": ""
             }, 
             "Escuela Militar":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.414346,
+                "longitud": -70.584699,
                 "otros datos": ""
             }, 
             "Manquehue":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.409225,
+                "longitud":-70.568751,
                 "otros datos": ""
             },
             "Hernando Magallanes":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.407964, 
+                "longitud": -70.555956,
                 "otros datos": ""
             }, 
             "Los Dominicos":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -70.545072,
+                "longitud":-33.407910,
                 "otros datos": ""
             }
         },
@@ -499,88 +499,88 @@
             },
             "Trinidad":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.546530,
+                "longitud":-70.588223,
                 "otros datos": ""
             },
             "San Jose de la EStrella":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.553454,
+                "longitud":-70.586743,
                 "otros datos": ""
             },
             "Los Quillayes":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.561594, 
+                "longitud":-70.585367,
                 "otros datos": ""
             },
             "Elisa Correa":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.569219,
+                "longitud":-70.583979,
                 "otros datos": ""
             },
             "Hosp. Sotero del Rio":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.576864,
+                "longitud":-70.582470,
                 "otros datos": ""
             },
             "Protectora de la Infancia":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.589466,
+                "longitud":-70.579990,
                 "otros datos": ""
             },
             "Las Mercedes":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.601223,
+                "longitud":-70.577484,
                 "otros datos": ""
             }, 
             "Plaza de Puente Alto":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.609472,
+                "longitud": -70.575126,
                 "otros datos": ""
             }
         },
         "L4A":{
-            "VIcuña Mackenna L4A":{
+            "Vicuña Mackenna L4A":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.519575,
+                "longitud": -70.596062,
                 "otros datos": ""
             },
             "Santa Julia":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.531150,
+                "longitud": -70.605480,
                 "otros datos": ""
             },
             "La Granja":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.541232,
+                "longitud": -70.616021,
                 "otros datos": ""
             },
             "Santa Rosa":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.542248,
+                "longitud": -70.634159,
                 "otros datos": ""
             },
             "San Ramon":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.541275, 
+                "longitud": -70.643230,
                 "otros datos": ""
             },
             "La Cisterna L4A":{
                 "ascensor": "Acceso Preferencial",
-                "latitud": "",
-                "longitud":"",
+                "latitud": -33.537528,
+                "longitud": -70.664477,
                 "otros datos": ""
             }
         }, 
