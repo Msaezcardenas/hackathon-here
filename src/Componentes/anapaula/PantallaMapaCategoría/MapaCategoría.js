@@ -20,7 +20,7 @@ constructor(props) {
      },
      url: "https://2.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{z}/{x}/{y}/512/png8?app_id=LP2ZyQJ7qm17fYnZLySE&app_code=4kTbv-S-8k6wr44_jerEbQ&ppi=320",
      entretenimiento: false,
-     entretenimientoData: props.entretenimiento,
+     entretenimientoData: props.data,
      bancoBCI: false,
      bancoEstado: false,
      mapsCoordinates: [-33.4726900, -70.6472400]
