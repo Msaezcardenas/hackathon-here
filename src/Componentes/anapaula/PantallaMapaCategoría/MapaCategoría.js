@@ -4,6 +4,7 @@ import {iconMall,iconMuseo,iconCine,iconBanco} from './vectores'
 //import vectorMapa from './Asserts/pinMapa.png'
 import './MapaCategoría.css'
 import Instructions from '../../molu/Instructions';
+import Form from '../../molu/Form';
 
 class MapasCategoria extends Component {
 constructor(props) {
@@ -347,6 +348,7 @@ render() {
    return (
      <div>
        <Instructions/>
+       <Form/>
      <Map 
         center={this.state.mapsCoordinates} 
         zoom={this.state.options.zoom} 
