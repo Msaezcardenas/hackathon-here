@@ -29,7 +29,7 @@ export default class Route extends React.Component {
     this.addSummaryToPanel = this.addSummaryToPanel.bind(this)
    }
 
-   getPlatform() {
+getPlatform() {
     return new window.H.service.Platform(this.state);
 }
 
