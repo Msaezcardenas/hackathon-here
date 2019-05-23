@@ -266,8 +266,8 @@ getUI(map, layers,options) {
         <div className="container">
         <div id="map" style={{position:'absolute', width:'49%', height:'100%', background:'grey' }}></div>
         <div id="panel" style={{position:'absolute', width:'49%', left:'51%', height:'100%', background:'inherit'}} ></div>
-        <Footer/>
         </div>
+        <Footer/>
         </div>
        )
    }
