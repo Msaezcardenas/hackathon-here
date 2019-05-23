@@ -1,5 +1,7 @@
 import React from 'react';
 import Footer from '../../molu/Footer';
+import Home from '../../molu/Home';
+import './Route.css';
 
 export default class Route extends React.Component {
 
@@ -262,12 +264,13 @@ getUI(map, layers,options) {
 
    render(){
        return (
-         <div>
+         <div className="route">
+           <Home/>
         <div className="container">
         <div id="map" style={{position:'absolute', width:'49%', height:'100%', background:'grey' }}></div>
         <div id="panel" style={{position:'absolute', width:'49%', left:'51%', height:'100%', background:'inherit'}} ></div>
-        <Footer/>
         </div>
+        <Footer/>
         </div>
        )
    }
