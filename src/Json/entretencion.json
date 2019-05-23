@@ -50,8 +50,8 @@
             },
             {   "categoria":"Centros Comerciales",
                 "nombre":"Mall Alto Las Condes",
-                    "latitud": -33.36671,
-                    "longitud": -70.49689,
+                    "latitud": -33.389705, 
+                    "longitud": -70.547033,
                     "nivel": "Medianamente Accesible",
                     "accesibilidad":{
                         "estacionamineto":"No",

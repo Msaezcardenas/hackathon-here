@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { Map, TileLayer , Marker, Popup} from 'react-leaflet';
-import L from 'leaflet';
-
+import {iconMetroOkL1, iconMetroOkL2, iconMetroOkL3, iconMetroOkL4, iconMetroOkL4a, iconMetroOkL5,iconMetroOkL6} from './vectores'
+import {iconMetroMaloL1, iconMetroMaloL3, iconMetroMaloL4, iconMetroMaloL4a,iconMetroMaloL6,iconMetroMaloL2, iconMetroMaloL5} from './vectores'
 import './MapaCategoría.css'
 
-class MapasCategoria extends Component {
+class MapasMetro extends Component {
 constructor(props) {
    super(props);
    this.marker = React.createRef();
@@ -22,7 +22,7 @@ constructor(props) {
      metroData: props.data,
      mapsCoordinates: [-33.4726900, -70.6472400]
   }
-   
+  console.log(props.data)  
  
 }
 
@@ -34,7 +34,9 @@ componentDidMount(){
   placesMap.map((item)=> {
     return placesArr.push({
       name: item.estacion,
-      cordinates:[item.latitud,item.longitud]
+      cordinates:[item.latitud,item.longitud],
+      nivel: item.acceso,
+      linea: item.linea
     })
   }) 
 
@@ -45,31 +47,176 @@ componentDidMount(){
  })
 }
 
-
-
-
 render() {
 
-  const iconMap = new L.Icon({
-    iconUrl: require('./Asserts/pinMapa.png'),
-    iconSize:     [40, 42], 
-    shadowSize:   [50, 64],
-    iconAnchor:   [20, 40],
-    popupAnchor:  [0, -40]
-  
-  })
   
   const marker = this.state.metro ? ( this.state.metro.map((item)=>{
+    
+    if( item.linea ==="L1" && item.nivel ==="Acceso Preferencial"){
     return (
     <Marker
     position={item.cordinates}
     ref={this.marker}
-    icon={iconMap}>
+    icon={iconMetroOkL1}
+    >
     key={item.name}
     >
     <Popup>{item.name}</Popup>
     </Marker>    
-  )
+  )} if( item.linea ==="L1" && item.nivel ==="SIN Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroMaloL1}
+    >
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L2" && item.nivel ==="Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroOkL2}
+    >
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L2" && item.nivel ==="SIN Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroMaloL2}
+    >
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L3" && item.nivel ==="Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroOkL3}
+    >
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L3" && item.nivel ==="SIN Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroMaloL3}
+
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L4" && item.nivel ==="Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroOkL4}
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L4" && item.nivel ==="SIN Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroMaloL4}
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L4A" && item.nivel ==="Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroOkL4a}
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L4A" && item.nivel ==="SIN Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroMaloL4a}
+    >
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L5" && item.nivel ==="Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroOkL5}
+    >
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L5" && item.nivel ==="SIN Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroMaloL5}
+    >
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L6" && item.nivel ==="Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroOkL6}
+    >
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+  if( item.linea ==="L6" && item.nivel ==="SIN Acceso Preferencial"){
+    return (
+    <Marker
+    position={item.cordinates}
+    ref={this.marker}
+    icon={iconMetroMaloL6}
+    >
+    key={item.name}
+    >
+    <Popup>{item.name}</Popup>
+    </Marker>    
+  )}
+    return false
   })): null
 
  
@@ -93,4 +240,4 @@ render() {
 
 }
 
-export default MapasCategoria;
+export default MapasMetro;
