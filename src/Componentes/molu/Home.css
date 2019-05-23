@@ -1,5 +1,15 @@
-.home {
+.container {
     background-color:#FF8A65;
     height: 100vh;
     width: 100%;
+    display: flex;   
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    color: aliceblue;
+    padding-top: 5rem;
+    text-align: center;
+}
+
+.imgHome{   
 }
