@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import { Form, Container, Row} from 'react-bootstrap';
-import ReactDOM from 'react-dom';
 import firebase from '../../Firebase';
-import {Link} from 'react-router-dom';
 import "./Form.css";
 
 class Formulario extends Component {
